@@ -1,2 +1,2 @@
-# Data-Analysis-Portfolio
-This portfolio is to display my data analysis work.
+# Portfolio
+This portfolio is to display my work in data analysis and database.
